@@ -70,14 +70,6 @@
       "session": "account1_session_value"
     },
     "api_user": "account1_api_user_id"
-  },
-  {
-    "name": "备用账号",
-    "provider": "agentrouter",
-    "cookies": {
-      "session": "account2_session_value"
-    },
-    "api_user": "account2_api_user_id"
   }
 ]
 ```
